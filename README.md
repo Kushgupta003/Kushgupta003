@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developing.
 - 🌱 I’m currently learning coding language.
 - 💞️ I’m looking to collaborate on website developing with anyone who is interested.
-- 📫 Contact me on instagram id:-https://instagram.com/baniya_coder?igshid=MmVlMjlkMTBhMg==
+- 📫 Contact me on Linkedin :- www.linkedin.com/in/kush-gupta-cse
 
 
 <!---
